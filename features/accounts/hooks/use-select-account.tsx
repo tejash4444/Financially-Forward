@@ -84,3 +84,4 @@ export const useSelectAccount = (): [React.FC, () => Promise<string | undefined 
     // Returning the dialog component and the confirmation function
     return [ConfirmationDialog, confirm];
 };
+ 
