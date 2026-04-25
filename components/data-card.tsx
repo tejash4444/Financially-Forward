@@ -117,4 +117,4 @@ export const DataCardLoading = () => {
             <Skeleton className="shrink-0 h-4 w-40" />
         </Card>
     )
-}
+} 
