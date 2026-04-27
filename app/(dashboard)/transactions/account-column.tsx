@@ -25,4 +25,4 @@ const onClick = () => {
             {account}
         </div>
     );
-};
+}; 
