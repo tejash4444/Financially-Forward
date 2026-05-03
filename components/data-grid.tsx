@@ -53,4 +53,4 @@ export const DataGrid = () => {
             />
         </div>
     );
-};
+}; 
