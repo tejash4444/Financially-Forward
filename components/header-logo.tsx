@@ -12,4 +12,4 @@ export const HeaderLogo = () => {
             </div>
         </Link>
     )
-}
+} 
