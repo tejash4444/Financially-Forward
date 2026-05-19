@@ -32,4 +32,4 @@ export const useGetTransactions = () =>{
         },
     });
     return query;
-}
+} 
