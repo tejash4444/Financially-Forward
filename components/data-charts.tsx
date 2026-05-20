@@ -30,4 +30,4 @@ export const DataCharts = () =>{
             </div>
         </div>
     )
-}
+} 
