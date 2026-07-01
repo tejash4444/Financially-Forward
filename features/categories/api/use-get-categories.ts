@@ -16,4 +16,4 @@ export const useGetCategories = () =>{
         },
     });
     return query;
-}  
+}   
