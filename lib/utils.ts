@@ -124,4 +124,4 @@ export function formatPercentage(
   }
 
   return result;
-} 
+}  
