@@ -34,4 +34,4 @@ export const RadarVariant = ({ data }: Props) => {
       </RadarChart>
     </ResponsiveContainer>
   );
-};
+}; 
