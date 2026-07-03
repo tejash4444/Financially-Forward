@@ -76,4 +76,4 @@ export const RadialVariant = ({ data }: Props) => {
       </RadialBarChart>
     </ResponsiveContainer>
   );
-}; 
+};  
