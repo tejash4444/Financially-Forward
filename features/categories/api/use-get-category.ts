@@ -19,4 +19,4 @@ export const useGetCategory = (id?: string) =>{
         },
     });
     return query;
-}
+} 
