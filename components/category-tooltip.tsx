@@ -31,3 +31,4 @@ export const CategoryTooltip = ({ active, payload }: any) => {
         </div>
     );
 };
+ 
