@@ -51,4 +51,4 @@ export const LineVariant = ({data}: Props) => {
             </LineChart>
         </ResponsiveContainer>
     )
-} 
+}  
