@@ -63,4 +63,4 @@ export const AreaVariant = ({data}: Props) => {
             </AreaChart>
         </ResponsiveContainer>
     )
-}
+} 
