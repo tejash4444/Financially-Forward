@@ -47,4 +47,4 @@ export const BarVariant = ({data}: Props) => {
             </BarChart>
         </ResponsiveContainer>
     )
-}
+} 
