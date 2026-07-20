@@ -31,4 +31,4 @@ export const NavButton =({
             </Link>
         </Button>
     )
-}
+} 
