@@ -152,4 +152,4 @@ const TransactionsPage = () => {
     )
 }
 
-export default TransactionsPage;
+export default TransactionsPage; 
