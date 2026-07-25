@@ -76,4 +76,4 @@ export const PieVariant = ({data}: Props) => {
             </PieChart>
         </ResponsiveContainer>
     )
-}   
+}    
