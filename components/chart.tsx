@@ -110,4 +110,4 @@ export const ChartLoading = () => {
         </CardContent>
       </Card>
     );
-  };  
+  };   
