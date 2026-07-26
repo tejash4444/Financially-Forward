@@ -35,4 +35,4 @@ export const useEditCategory = (id?:string) =>{
     return mutation;
 
 
-}; 
+};  
