@@ -38,4 +38,4 @@ const onClick = () => {
             {category || "Uncategorized"}
         </div>
     );
-};    
+};     
