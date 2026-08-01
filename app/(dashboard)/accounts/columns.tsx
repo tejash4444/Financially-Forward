@@ -69,4 +69,4 @@ export const columns: ColumnDef<ResponseType>[] = [
   //   header: "Amount",
   // },
 ]
- 
+  
