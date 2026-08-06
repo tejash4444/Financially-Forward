@@ -19,4 +19,4 @@ export const useGetAccount = (id?: string) =>{
         },
     });
     return query;
-} 
+}  
