@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1729720378612,
+      "tag": "0000_flippant_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1729723039398,
+      "tag": "0001_aromatic_smiling_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1732577011879,
+      "tag": "0002_green_black_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1732756765609,
+      "tag": "0003_perfect_purifiers",
+      "breakpoints": true
+    }
+  ]
+}
