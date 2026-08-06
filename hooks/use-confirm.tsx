@@ -64,3 +64,4 @@ export const useConfirm = (
     // Returning the dialog component and the confirmation function
     return [ConfirmationDialog, confirm];
 };
+ 
