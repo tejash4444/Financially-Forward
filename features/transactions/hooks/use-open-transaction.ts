@@ -13,4 +13,4 @@ export const useOpenTransaction = create <OpenTransactionState>((set) => ({
     isOpen: false,
     onOpen: (id:string) => set({ isOpen:true ,id}),
     onClose: () => set({isOpen:false,id:undefined}),
-}))  
+}))   
